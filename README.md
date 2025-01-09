@@ -72,7 +72,7 @@ Once you have installed the dependencies, you can run the application:
 python converter.py
 ```
 
-This will launch the graphical interface where you can select your image or GIF, choose the preset color format, block size, and then convert the file. The resulting data will be saved as a `.h` header file.
+This will launch the graphical user interface where you can select your image or GIF, choose the preset color format, block size, and then convert the file. The resulting data will be saved as a `.h` header file.
 
 ## Usage
 
